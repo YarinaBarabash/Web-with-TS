@@ -20,7 +20,7 @@ export default {
 }
 
 .photo {
-  min-width: 200px;
+  width: 100%;
   max-width: 500px;
   border-radius: 20px;
 }
